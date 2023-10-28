@@ -1125,3 +1125,10 @@
 					font-size: 3.8vw;
 				}
 	}
+
+	@media (max-width: 360px)
+	{
+			.btn button {
+					padding: 11px 18px;
+			}
+	}
