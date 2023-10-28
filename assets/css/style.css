@@ -1056,6 +1056,7 @@
 				#one .right_section {
 					width: 100%;
 					padding: 20px 18px;
+					display: flex;
 					justify-content: center;
 				}
 	
